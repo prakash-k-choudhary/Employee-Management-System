@@ -16,7 +16,7 @@ The project includes separate dashboards for admins and employees, task assignme
 
 ## Live Demo
 
-Live Link:
+Live Link: https://employee-management-system-nu-peach.vercel.app/
 
 ---
 
